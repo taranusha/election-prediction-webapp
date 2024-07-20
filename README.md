@@ -7,7 +7,11 @@ This webapp predicts party support in Swiss elections based on demographic data 
 
 
 ## Installation
-1. Clone the repository: ``
+1. Clone the repository: 
+```bash
+git clone https://github.com/lauramauricio/election-prediction-webapp.git
+cd election-prediction-webapp
+```
 
 2. Create a virtual environment (recommended):
 ```
