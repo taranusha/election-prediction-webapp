@@ -29,7 +29,7 @@ pip install -r requirements.txt
 **To only run the web application**, use `notebooks/3-app_gb.ipynb`. Execute all the cells. 
 You will be able to use the app in the last cell.
 
-If you have an issue like `Address port already in use`, change the port number, to `8001` for example. The app should now be accessible at `http://localhost:8000` (or any other port).
+If you have an issue like `Address port already in use`, change the port number, to `8000` for example. The app should now be accessible at `http://localhost:8000` (or any other port).
 
 
 ## Model training and hyperparameter tuning
